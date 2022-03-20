@@ -20,16 +20,3 @@
 Note: Track the count of the letters from the string.  
 **Sample string : 'w3resource'**  
 ***Expected output : {'3': 1, 's': 1, 'r': 2, 'u': 1, 'w': 1, 'c': 1, 'e': 2, 'o': 1}***
-
-## Download Python
-
-You can download python from [here](https://www.python.org/ftp/python/3.10.3/python-3.10.3-amd64.exe).
-> Beginning The Installation
-- Getting Started:  
-![python-windows-installation-01](https://user-images.githubusercontent.com/89139319/159169528-a01b6f3d-2bcb-4fc2-9288-698ada72ad37.jpg)
-
-- Installing Libraries:
-[](https://media.geeksforgeeks.org/wp-content/uploads/20200117124400/python-windows-installation-02.jpg)
-- Installing pip and other features:
-- Finishing Installation:  
-To verify the installation enter the following commands in your Terminal.
