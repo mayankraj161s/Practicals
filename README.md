@@ -1,3 +1,6 @@
+# How to use this program? 
+> Run only ```main.py``` file on IDLE.
+
 # Practicals List
 
 1) Write a Python Program to find the largest/smallest number in a list/tuple and displaying the position of that number
@@ -9,7 +12,7 @@
 7) Write a Python program to implement the random function random, randint, Randrange using random module.
 8) Write a Python program to implement the statistics functions (mean, median, mode) using statistics module.
 9) Write a program to input your friends’ names and their Phone Numbers and store them in the dictionary as the key-value pair.
-    * Perform the following operations on the dictionary:  
+    - Perform the following operations on the dictionary:  
        (i) Display the name and phone number of all your friends  
        (ii) Add a new key-value pair in this dictionary and display the modified dictionary  
        (iii) Delete a particular friend from the dictionary  
